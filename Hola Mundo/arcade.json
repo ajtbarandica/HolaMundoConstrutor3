@@ -1,0 +1,22 @@
+{
+	"name": "Hola Mundo",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "2dkxlquy5y7",
+	"viewport-width": 640,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r285.3",
+	"ife": true,
+	"used-plugins": [
+		"Shape3D"
+	],
+	"used-behaviors": [
+		"DragnDrop"
+	]
+}
